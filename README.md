@@ -1,9 +1,9 @@
-# knitit2
-Knitting App called code name KnitIt2
+# knitit
+Knitting App called code name KnitIt
 
 **Synopsis**
 
-KnitIt2 (code name project) will be a mobile / web-based application that will focus towards knitting enthusiasts.
+KnitIt (code name project) will be a mobile / web-based application that will focus towards knitting enthusiasts.
 
 **Code Example**
 
@@ -11,7 +11,7 @@ Show what the library does as concisely as possible, developers should be able t
 
 **Motivation**
 
-The market place has many applications that gears towards knitters but in the past few years, companies and developers have not been maintaining there applications where some applicaions are obsolete now with the latest mobile OS updates. Our goal at KnitIt2 (code name) is to provide the market place with a great and stable application.
+The market place has many applications that gears towards knitters but in the past few years, companies and developers have not been maintaining there applications where some applicaions are obsolete now with the latest mobile OS updates. Our goal at KnitIt (code name) is to provide the market place with a great and stable application.
 
 **Installation**
 
