@@ -2,7 +2,9 @@
 Knitting App called code name KnitIt
 Originator : Victoria Crum
 Developers : Raul Luna, Jr.
+		juniorluna2@gmail.com
 	     Hardik Prajapti
+		prajaptihardik@gmail.com
 
 20160913 - Created repository on GitHub for code revision with project name knitit
 
